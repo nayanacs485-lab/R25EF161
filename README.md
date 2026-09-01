@@ -1,2 +1,3 @@
-## Skill
-I have basic knowledge of Java programming.
+## Interest
+
+I am interested in learning artificial intelligence and developing useful software applications.
